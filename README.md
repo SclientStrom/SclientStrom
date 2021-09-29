@@ -9,6 +9,6 @@ SclientStrom/SclientStrom is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-(publicis)
-nexus:   admin  Z3xFgdZWpsP838Xn
-jenkins: admin admin123
+- (publicis)
+- nexus:   admin  Z3xFgdZWpsP838Xn
+- jenkins: admin admin123
