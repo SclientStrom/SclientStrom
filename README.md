@@ -6,3 +6,6 @@
 - git fetch --all
 - git reset --hard origin/master 
 - 重新合并
+
+
+sulkorhrfsqabbcc
