@@ -9,3 +9,9 @@
 
 mac 日历控件  account key:60EE8FFC-43803885-C8692B21-E6D28B3E
 sulkorhrfsqabbcc
+
+
+
+
+git密码:   m1Bl3s?V!p..
+
